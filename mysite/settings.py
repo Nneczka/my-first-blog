@@ -25,7 +25,8 @@ SECRET_KEY = 'u7a*c0c*k1%(=4+#@sd64tgqqc+&*qr+-$bksm^)dc2(_9w=0-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nneczka.pythonanywhere.com',
+                '127.0.0.1']
 
 
 # Application definition
